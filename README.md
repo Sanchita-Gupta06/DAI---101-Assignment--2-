@@ -1,7 +1,4 @@
 # DAI-101-Assignment--2-
-Here is a concise GitHub README for the Jupyter notebook:
-
----
 
 # Penguin Species Classification using SVM and KNN
 
